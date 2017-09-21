@@ -1,2 +1,3 @@
-#include <loadout.cpp>
+#include <loadout.h>
+
 respawnOnStart = -1;
