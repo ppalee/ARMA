@@ -1,0 +1,2 @@
+#include <loadout.cpp>
+respawnOnStart = -1;
